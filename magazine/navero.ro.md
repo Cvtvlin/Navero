@@ -46,3 +46,21 @@ _(nicio modificare în magazin până acum)_
 - [ ] Audit general după checklist
 - [ ] Audit legal (retur, formular retragere, ANPC/SAL, politici)
 - [ ] Alegere paletă
+
+## Audit istoric complet – 17.11.2026 (doar citire)
+Magazin creat 21.02.2026, prima comandă 19.03.2026. Meta și Helpship necitite.
+
+| Lună 2026 | Comenzi | Vânzări brute (lei) | Plătite | Anulate |
+|---|---|---|---|---|
+| Mai | 74 | 4.066 | 11 | – |
+| Iunie | 232 | 16.704 | 96 | 132 |
+| Iulie | 241 | 19.467 | 101 | 46 |
+| August | 463 | 41.875 | 270 | 55 |
+| Septembrie | 361 | 29.449 | 170 | 73 |
+| Octombrie | 593 | 52.800 | 248 (incomplet) | 168 |
+| Noiembrie (1–17) | 114 | 14.767 | 25 (incomplet) | 42 |
+
+- Total: 2.029 comenzi, 179.974 lei brut; 571 anulate (28%), 1.436 expediate, 892 plătite (44% din plasate), 500 etichetate `refuzat` (36% din cele cu rezultat).
+- Gel Exfoliant: 1.807 comenzi, 160.261 lei = 89% din vânzări. BeardCare 95 comenzi. Ventile LED 7.
+- TikTok total: 33.276 lei, 1.686 comenzi raportate (CBO 29.155 lei / CPA 19,3; ABO 4.120 lei / CPA 23,7). ~6.300 lei pe teste fără câștigător.
+- Cost reclame pe comandă plătită: ~37 lei.
